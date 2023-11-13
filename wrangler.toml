@@ -1,0 +1,16 @@
+name = "giveaway-bot"
+type = "webpack"
+main = "./src/server.js"
+route = ''
+usage_model = 'bundled'
+compatibility_flags = []
+workers_dev = true
+node_compat = true
+compatibility_date = "2022-09-12"
+
+
+[env.production]
+vars = { DISCORD_PUBLIC_KEY = "677f822e02a8a13645d3f8ab72cbd38600ea31e741f61debe2890f0d6b5c7d52", DISCORD_APPLICATION_ID = "1043925848526430279" }
+DISCORD_APPLICATION_ID = "1043925848526430279"
+DISCORD_PUBLIC_KEY = "677f822e02a8a13645d3f8ab72cbd38600ea31e741f61debe2890f0d6b5c7d52"
+DISCORD_TOKEN = "MTA0MzkyNTg0ODUyNjQzMDI3OQ.GaAs3u.oJJKLORto7haeDoyDkMtCGAO9LhStnPap4wuLs"
