@@ -32,6 +32,6 @@
     "ngrok": "^4.3.0",
     "node-fetch": "^3.3.2",
     "prettier": "^3.3.3",
-    "wrangler": "^3.68.0"
+    "wrangler": "^3.69.1"
   }
 }
