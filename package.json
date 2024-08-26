@@ -19,19 +19,19 @@
     "publish": "wrangler publish"
   },
   "dependencies": {
-    "discord-interactions": "^4.0.0",
-    "itty-router": "^5.0.17",
-    "jsdom": "^24.1.1"
+    "discord-interactions": "^4.1.0",
+    "itty-router": "^5.0.18",
+    "jsdom": "^25.0.0"
   },
   "devDependencies": {
     "c8": "^10.1.2",
-    "eslint": "^9.8.0",
+    "eslint": "^9.9.1",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
-    "mocha": "^10.7.0",
+    "mocha": "^10.7.3",
     "ngrok": "^4.3.0",
     "node-fetch": "^3.3.2",
     "prettier": "^3.3.3",
-    "wrangler": "^3.69.1"
+    "wrangler": "^3.72.2"
   }
 }
